@@ -1,8 +1,6 @@
-# Subject 1 - The subject of the Pull Request (PR)
-
-## Subject 2 - Description of what is made in the PR
-
-### What it contains(e.g. what tickets from project management are covered)
+# Subject - The subject of the Pull Request (PR)
+## Description
+Description of what is made, what it contains and what ticket from project management is covered.
 
 -----------------------------------------------------------------------------------------------
 ### Breakdown:

@@ -1,28 +1,24 @@
-# Otsikko 1 - PR:n otsikko
+# Subject 1 - The subject of the Pull Request (PR)
 
-## Otsikko 2 - Selitys mitä tapahtuu PR:ssä
+## Subject 2 - Description of what is made in the PR
 
-### Mitä sisältää (Esim. mitä projektinhallinnan tehtäväkortteja käsittelee)
+### What it contains(e.g. what tickets from project management are covered)
 
 -----------------------------------------------------------------------------------------------
 ### Breakdown:
 
-#### Kategoria-otsikko
- 1. Tiedosto 
-     * Selitys muutoksista
-   
- 2. Tiedosto
-     * Selitys muutoksista
-    
- 3. Tiedosto
-     * Selitys muutoksista
-     
-#### Kategoria-otsikko
- 1. Tiedosto 
-     * Selitys muutoksista
-   
- 2. Tiedosto
-     * Selitys muutoksista
-    
- 3. Tiedosto
-      * Selitys muutoksista
+#### Category subject
+  1. Filename
+     * Description of changes
+  2. Filename
+     * Description of changes
+  3. Filename
+     * Description of changes
+ 
+#### Category subject
+  1. Filename
+     * Description of changes
+  2. Filename
+     * Description of changes
+  3. Filename
+     * Description of changes
